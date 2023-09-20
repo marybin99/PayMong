@@ -22,12 +22,12 @@
 
 | 팀원 | 역할 |
 | --- | --- |
-| 황수빈 | 팀장, 안드로이드, 디자인, FE |
-| 나유진 | BE, DB, TEST |
-| 권혁근 | BE, Infra(CI/CD), DB |
-| 박상민 | 안드로이드, FE, BE, 크롤링 |
-| 김유민 | 안드로이드, 디자인, FE |
-| 정경훈 | BE, 소켓, 로직, DB, 맛점좌 |
+| [황수빈](https://github.com/marybin99) | 팀장, 안드로이드, 디자인, FE |
+| [나유진](https://github.com/nayu1105) | BE, DB, TEST |
+| [권혁근](https://github.com/kwonhyeokgeun) | BE, Infra(CI/CD), DB |
+| [박상민](https://github.com/tableMinPark) | 안드로이드, FE, BE, 크롤링 |
+| [김유민](https://github.com/youmean0427) | 안드로이드, 디자인, FE |
+| [정경훈](https://github.com/rudgns9334) | BE, 소켓, 로직, DB, 맛점좌 |
 
 🌕 **기획 의도**
 
